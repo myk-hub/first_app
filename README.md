@@ -1,2 +1,4 @@
 # first_app
-Kursach
+# Ruby on Rails Tutorial: 
+
+Курсова
