@@ -1,4 +1,2 @@
 # first_app
-# Ruby on Rails Tutorial: 
-
-Курсова
+# Ruby on Rails practice
